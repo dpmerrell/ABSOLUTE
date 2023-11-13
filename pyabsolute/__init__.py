@@ -1,2 +1,3 @@
-# Do nothing for now
+
+from pyabsolute.run_absolute import run_absolute
 
