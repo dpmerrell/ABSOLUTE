@@ -1,10 +1,6 @@
 # ABSOLUTE
 
-Quantify:
-1. tumor purity and
-2. absolute ploidy
-
-from:
+Quantify tumor purity and absolute copy number from:
 1. Relative copy profiles and
 2. (optionally) point-mutations
 
